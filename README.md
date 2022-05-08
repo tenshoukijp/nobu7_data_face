@@ -5,9 +5,6 @@
 - KAODATA.NB7
   - 天下創世～天道あたりの顔を中心に書き換えた顔グラデータ
 
-- kao_8bit
-  - オリジナルの769個全ての顔データ
-  - 
 - kao_palatte 
   - palatte.act。パレットファイル。
   - palatte.bmp。ACTに対応してない環境(yukariなど)用にパレットと同一のインデックスカラーを持つbmp。
