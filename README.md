@@ -3,7 +3,7 @@
 ![将星録](https://img.shields.io/badge/将星録-with_PK-6479ff.svg)
 
 - KAODATA.NB7
-  - 天下創世～天道あたりの顔を中心に書き換えた顔グラデータ
+  - 天下創世以降の顔グラから「最も良いと思われるもの」を厳選した顔に書き換えた顔グラデータ
 
 - kao_palatte 
   - palatte.act。パレットファイル。
